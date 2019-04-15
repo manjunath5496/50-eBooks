@@ -101,12 +101,30 @@
 31. The Energy Bus: 10 Rules to Fuel Your Life, Work, and Team with Positive Energy</br>
                 <a href="https://github.com/manjunath5496/Medicinal-Plants-Books/blob/master/bk31.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>               
                       
+32. Killers of the Flower Moon: The Osage Murders and the Birth of the FBI </br>
+                <a href="https://github.com/manjunath5496/Medicinal-Plants-Books/blob/master/bk32.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
                 
+33. The 5 Second Rule: Transform Your Life, Work, and Confidence with Everyday Courage</br>
+                <a href="https://github.com/manjunath5496/Medicinal-Plants-Books/blob/master/bk33.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                  
                 
+34. Boundaries: When to Say Yes, How to Say No to Take Control of Your Life </br>
+                <a href="https://github.com/manjunath5496/Medicinal-Plants-Books/blob/master/bk34.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
                 
+35. Your Life, Your Legacy: An Entrepreneur Guide to Finding Your Flow</br>
+                <a href="https://github.com/manjunath5496/Medicinal-Plants-Books/blob/master/bk35.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
                 
+36. 101 Healing Stories for Children and Teens </br>
+                <a href="https://github.com/manjunath5496/Medicinal-Plants-Books/blob/master/bk36.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
                 
+37. Biochemistry Demystified</br>
+                <a href="https://github.com/manjunath5496/Medicinal-Plants-Books/blob/master/bk37.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
+                                
+38. Introduction to Law </br>
+                <a href="https://github.com/manjunath5496/Medicinal-Plants-Books/blob/master/bk38.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
                 
+40. Engineering Geology for Underground Rocks</br>
+                <a href="https://github.com/manjunath5496/Medicinal-Plants-Books/blob/master/bk40.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
+                                                
                 
                 
                 
